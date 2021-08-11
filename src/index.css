@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'STIX Two Text';
+}
+
+a {
+  color: #011627;
+}
+
+a:active,
+a:focus {
+  color: #F71735;
+}

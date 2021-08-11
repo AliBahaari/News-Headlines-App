@@ -1,0 +1,9 @@
+.Header {
+	margin: 0 auto;
+	width: 90%;
+	border-bottom: 1px solid #EEE;
+	padding: 40px 0;
+	font-weight: 600;
+	text-align: center;
+	font-size: 1.4rem;
+}
