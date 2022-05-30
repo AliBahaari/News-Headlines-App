@@ -1,3 +1,3 @@
-# News-Headlines-App
+# News Headlines App
 
 Soon...
